@@ -30,7 +30,7 @@ s.framework = "UIKit"
 s.source_files = "GPSMaskTextField/**/*.{swift}"
 
 # 9
-s.resources = "GPSMaskTextField/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+#s.resources = "GPSMaskTextField/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.2"
